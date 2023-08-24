@@ -165,3 +165,7 @@
   @apply flex justify-end items-center;
 }
 
+.flex-between {
+    @apply flex justify-between items-center;
+}
+
